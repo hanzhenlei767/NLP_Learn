@@ -39,38 +39,38 @@
   
 * 3).ELMo
   
-ELMo_Deep contextualized word representations
+  ELMo_Deep contextualized word representations
   
 * 4).ERNIE
-  
+
   ERNIE: Enhanced Language Representation with Informative Entities
-  
+
   ERNIE:用信息实体增强语言表示
 
-  5).RoBERTa
-  
+* 5).RoBERTa
+
   RoBERTa: A Robustly Optimized BERT Pretraining Approach
-  
+
 * 6).ALBERT
-  
-ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS
-  
+
+  ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS
+
 * 7).XLNet
-  
-Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
-  
+
+  Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
+
   XLNet: Generalized Autoregressive Pretraining for Language Understanding
 
   XLNet：广义自回归预训练语言模型
-  
-8).T5
-  
+
+* 8).T5
+
   Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
-  
+
 * 9).SHA-RNN
-  
+
   Single Headed Attention RNN: Stop Thinking With Your Head
-  
+
   单头注意力RNN:停止用你的头思考
 
 
@@ -116,11 +116,11 @@ Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
 
 
 ## 6.对抗训练
-1).FREELB: 
+* 1).FREELB: 
 
-FREELB: ENHANCED ADVERSARIAL TRAINING FOR LANGUAGE UNDERSTANDING
+  FREELB: ENHANCED ADVERSARIAL TRAINING FOR LANGUAGE UNDERSTANDING
 
-Free Large-Batch：增强对抗性训练的语言理解
+  Free Large-Batch：增强对抗性训练的语言理解
 
 ## 7.知识图谱
 ### 实体识别：
