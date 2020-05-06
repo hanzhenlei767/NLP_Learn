@@ -35,7 +35,11 @@
   
   BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
   
-  BERT:深度双向Transformer的预训练语言理解
+  BER论文翻译
+  
+  BERT用于文本相似度计算源码
+  
+  BERT用于文本相似度计算的多GPU版本源码
   
 * 3).ELMo
   
@@ -54,6 +58,12 @@
 * 6).ALBERT
 
   ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS
+  
+  ALBERT论文翻译
+  
+  ALBERT用于文本相似度计算源码
+  
+  ALBERT用于文本相似度计算的多GPU版本源码
 
 * 7).XLNet
 
@@ -162,6 +172,13 @@
 * 7).Convolutional Sequence to Sequence Learning
 
 
+### 实体关系联合抽取：
+* 1).Entity-Relation Extraction as Multi-turn Question Answering
+  
+  多轮QA用于实体关系抽取
 
 
+## 8.知识蒸馏
+* 1).Distilling-the-knowledge-in-neural-network
 
+  从神经网络中提取知识
