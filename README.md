@@ -27,6 +27,18 @@
   
   分发句子和文档的表示形式
   
+  Enriching Word Vectors with Subword Information
+  
+  用Subword信息丰富词向量
+  
+  Fair is Better than Sensational Man is to Doctor as Woman is to Doctor
+  
+  男人是医生，正如女人是医生一样
+  
+  Linguistic Regularities in Continuous Space Word Representations
+  
+  连续空间词表征中的语言规律
+  
 * 2).BERT
   
   Attention Is All You Need
@@ -82,12 +94,41 @@
   Single Headed Attention RNN: Stop Thinking With Your Head
 
   单头注意力RNN:停止用你的头思考
+  
+* 10).DistilBERT
 
+  DistilBERT, a distilled version of BERT: smaller,faster, cheaper and lighter
 
+  蒸馏BERT，BERT的蒸馏版:更小，更快，更便宜，更轻
+
+* 11).FastBERT
+
+  FastBERT:a Self-distilling BERT with Adaptive Inference Time
+
+  FastBERT:一个自蒸馏的BERT与自适应推理时间
+  
+* 12).TinyBERT
+
+  TINYBERT: DISTILLING BERT FOR NATURAL LAN GUAGE UNDERSTANDING
+
+  TINYBERT，自然语言理解的蒸馏BERT
+  
+* 13).GloVe
+
+  GloVe: Global Vectors for Word Representation
+
+  GloVe:用于单词表示的全局向量
+  
+* 14).Synthesizer
+
+  SYNTHESIZER:Rethinking Self-Attention in Transformer Models
+
+  SYNTHESIZER:重新思考Transformer模型中的Self-Attention 
 
 ## 3.错词检查和新词发现
 
- ## 4.对话系统
+
+## 4.对话系统
 * 1).LSTM-based Deep Learning Models for Non-factoid Answer Selection
   
   基于LSTM的非事实性答案选择深度学习模型
@@ -123,6 +164,9 @@
 
 * 8).CNTN:Convolutional Neural Tensor Network Architecture for Community-based Question Answering
 
+* 9).RE2:Simple and Effective Text Matching with Richer Alignment Features
+
+* 10).WMD:From Word Embeddings To Document Distances
 
 
 ## 6.对抗训练
@@ -182,3 +226,42 @@
 * 1).Distilling-the-knowledge-in-neural-network
 
   从神经网络中提取知识
+  
+  
+## 9.模型框架
+* 1).LightGBM: A Highly Efficient Gradient Boosting Decision Tree
+
+  LightGBM:一个高效的梯度增强决策树
+  
+* 2).XGBoost: A Scalable Tree Boosting System
+
+  XGBoost:一个可伸缩的树增强系统
+  
+## 10.深度学习知识点
+* 1).Dropout: A Simple Way to Prevent Neural Networks from Overfitting
+
+  Dropout:防止神经网络过拟合的简单方法
+  
+* 2).Improving Neural Networks with Dropout
+
+  用Dropout改进神经网络
+  
+* 3).Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+
+  Batch Normalization::通过减少内部协变量移位加速深度网络训练
+  
+* 4).Layer Normalization
+
+  Layer Normalization
+  
+* 5).Improving Neural Networks with Dropout
+
+  用Dropout改进神经网络
+  
+* 6).Instance Normalization: The Missing Ingredient for Fast Stylization
+
+  Instance Normalization::快速格式化所缺少的元素
+  
+* 7).Sequence to Sequence Learning with Neural Networks
+
+  利用神经网络进行序列到序列学习
