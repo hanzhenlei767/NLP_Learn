@@ -248,20 +248,32 @@
   
 * 3).Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 
-  Batch Normalization::通过减少内部协变量移位加速深度网络训练
+  Batch Normalization:通过减少内部协变量移位加速深度网络训练
   
 * 4).Layer Normalization
 
   Layer Normalization
   
-* 5).Improving Neural Networks with Dropout
-
-  用Dropout改进神经网络
-  
-* 6).Instance Normalization: The Missing Ingredient for Fast Stylization
+* 5).Instance Normalization: The Missing Ingredient for Fast Stylization
 
   Instance Normalization::快速格式化所缺少的元素
   
-* 7).Sequence to Sequence Learning with Neural Networks
+* 6).Sequence to Sequence Learning with Neural Networks
 
   利用神经网络进行序列到序列学习
+  
+* 7).Focal Loss for Dense Object Detection
+
+  分类任务中类别加权，难分易分样本加权
+  
+* 8).Dice Loss for Data-imbalanced NLP Tasks
+
+  适用于分类任务中评价指标是F1,且样本类别不均衡
+  
+* 9).Rethinking the Inception Architecture for Computer Vision
+
+  label smoothing:分类任务中降低标注错误数据带来的影响
+  
+* 10).Huber Loss:回归任务中L1和L2的结合，降低标注错误数据的影响
+  
+* 11).Quantile Loss:回归任务中把L1中的正负损失加权
